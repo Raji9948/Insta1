@@ -1,5 +1,12 @@
-home page code
-get to the page
-Code for main page
-code for sub menus
-Documents attached
+public class First{
+
+	public static void main(String[] args) {
+		
+
+		System.out.println("I love raji");
+		 
+		
+
+	}
+}
+
